@@ -1,0 +1,90 @@
+body
+{
+    background-color:blue;
+}
+
+.img{
+    position: relative;
+    left: 800px;
+    
+}
+
+.form{
+    position: relative;
+    left: 150px;
+    bottom: 400px;
+}
+
+input[type=text], select {
+    width: 23%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: medium;
+   
+  }
+
+h1{
+    font-size: xx-large ;
+    font-family: Verdana;
+    color: yellow;
+ }
+
+input.dir{
+    width: 46%;
+}
+
+input.org{
+    width: 46%;
+}
+input.cod{
+    width: 46%;
+}
+input.email{
+   
+    width: 46%;
+}
+
+input.t{
+    width: 46%;
+}
+
+
+.button {
+    background-color:red; /* Green */
+    border: none;
+font-family: Verdana;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+
+  .button1 {border-radius: 12px ;
+           width: 20%; }
+  .button2 {border-radius: 12px;
+    position: relative;
+left: 70px;
+width: 20%;
+}
+h3{
+    position: relative;
+ left: 650px; 
+ bottom: 59px;
+ color:yellow;  
+}
+h2
+{
+    position:relative;
+    left: 670px;
+    bottom: 65px;
+    color:yellow;
+}
